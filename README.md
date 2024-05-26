@@ -1,1 +1,1 @@
-# https-github.com-AlGarCu-IntroToProg-Python-Mod06
+# IntroToProg-Python-Mod06
